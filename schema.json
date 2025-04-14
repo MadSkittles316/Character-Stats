@@ -1,4 +1,4 @@
-{
+with open('./generator/SourceContent.json') as f:{
     "$schema": "http://json-schema.org/draft-06/schema",
     "$id": "https://github.com/StardustD2/Destiny-2-Character-Stats/blob/main/schema.json",
     "definitions": {
